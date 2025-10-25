@@ -59,6 +59,8 @@ Naïvely repeating the last known sales (d-1913) gives:
 
 ---
 
+
+
 ## LightGBM baseline
 
 Parameters  
@@ -66,6 +68,7 @@ learning_rate: 0.1
 num_leaves: 31
 feature_fraction: 0.8
 early_stopping: 50
+
 
 
 Training log:
